@@ -13,4 +13,4 @@ PowerShellコマンドをPyInstallerでGUI化したツール。
 
 CA2023Check.exe を実行し、「チェック」ボタンを押下すると、結果が表示されます。
 
-[!ScreenShot](Images/sc.png)
+<img width="522" height="232" alt="Image" src="https://github.com/user-attachments/assets/d3c6ea1b-0dc8-4105-b2c1-5e16af8ed52c" />
