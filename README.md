@@ -5,6 +5,8 @@ PowerShellコマンドをPyInstallerでGUI化したツール。
 
 `[System.Text.Encoding]::ASCII.GetString((Get-SecureBootUEFI -Name db).Bytes) -match "Windows UEFI CA 2023"`
 
+**[ダウンロード](https://github.com/stellorbit/CA2023Check/releases/download/python-gui/CA2023Check.exe)**
+
 ## 生成AIを使用して作成したツールです。
 
 このツールは、**GPT-5.4 via Microsoft 365 Copilot**及び、**GPT-5.1 mini via GitHub Copilot** にて生成されたコードをビルドして作成されたものです。
