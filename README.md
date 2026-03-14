@@ -12,4 +12,4 @@ PowerShellコマンドをPyInstallerでGUI化したツール。
 ## 使用方法
 
 CA2023Check.exe を実行し、「チェック」ボタンを押下すると、結果が表示されます。
-[./image/sc.png]()
+(sc.png)[!ScreenShot]
